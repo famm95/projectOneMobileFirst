@@ -11,10 +11,11 @@ font-family: 'Libre Franklin 300', sans-serif;}
 p.info {color:black;
 font-family: 'Libre Franklin 100', sans-serif;}
 img {width:25%;}
-img.main {width:300px;}
+
 
 @media.queries
 (min-width: 298px)
 {
 img.main {width:100%;}
+img {width:100%;}
 }
