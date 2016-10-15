@@ -16,6 +16,6 @@ img {width:25%;}
 @media.queries
 (min-width: 298px)
 {
-img.main {width:100%;}
-img {width:100%;}
+img.main {width:75%;}
+img {width:75%;}
 }
