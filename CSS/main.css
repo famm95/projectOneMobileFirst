@@ -1,17 +1,23 @@
-body {background:DarkGray;}
+:root {background:DarkGray;}
+
 h1 {color:Navy;
 text-align:center;
 background:DimGray;
 font-family: 'Allura', cursive;
 font-size:40px;}
+
 h2 {color:MidnightBlue;
 font-family: 'Libre Franklin 400', sans-serif;}
+
 h3 {color:Teal;
 font-family: 'Libre Franklin 300', sans-serif;}
+
 p.info {color:black;
 font-family: 'Libre Franklin 100', sans-serif;}
+
 p.intro {color:black;
 font-family: 'Libre Franklin 100', sans-serif;}
+
 p.intro::first-letter {float:left;
 font-size:75px;
 line-height:60px;
@@ -19,6 +25,7 @@ padding-top:4px;
 padding-right:8px;
 padding-left:3px;
 color:MidnightBlue;}
+
 img {width:75%;}
 img.main {width:50%;}
 
@@ -28,5 +35,3 @@ img.main {width:50%;}
 (max-width: 298px)
 {img.main {width:100%; display:block;}}
 {img {width:100%;}}
-(max-width: 1136px)
-{img.main {width:273%}}
