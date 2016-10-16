@@ -27,11 +27,19 @@ padding-left:3px;
 color:MidnightBlue;}
 
 img {width:75%;}
-img.main {width:50%;}
+img.tree,
+img.ocean,
+img.me,
+img.bird,
+img.butterfly {width:50%;}
 
 
 
 @media.queries
 (max-width: 298px)
-{img.main {width:100%; display:block;}}
+{img.tree,
+img.ocean,
+img.me,
+img.bird,
+img.butterfly {width:100%; display:block;}}
 {img {width:100%;}}
