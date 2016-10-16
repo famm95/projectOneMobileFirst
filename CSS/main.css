@@ -10,7 +10,7 @@ h3 {color:Teal;
 font-family: 'Libre Franklin 300', sans-serif;}
 p.info {color:black;
 font-family: 'Libre Franklin 100', sans-serif;}
-p.info:first-letter {float:left;
+p.intro:first-letter {float:left;
 font-size:75px;
 line-height:60px;
 padding-top:4px;
