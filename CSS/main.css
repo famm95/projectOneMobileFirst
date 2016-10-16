@@ -9,15 +9,15 @@ font-family: 'Libre Franklin 400', sans-serif;}
 h3 {color:Teal;
 font-family: 'Libre Franklin 300', sans-serif;}
 p.info {color:black;
-font-family: 'Libre Franklin 100', sans-serif;
-{:first-letter {float:left;
+font-family: 'Libre Franklin 100', sans-serif;}
+p.info:first-letter {float:left;
 font-size:75px;
 line-height:60px;
 padding-top:4px;
 padding-right:8px;
 padding-left:3px;}
-}
 img {width:75%;}
+img.main {width:50%;}
 
 
 
