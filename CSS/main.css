@@ -17,7 +17,7 @@ img {width:75%;}
 @media.queries
 (max-width: 298px)
 {
-img.main {width:100%;}
+img.main {width:100%; display:block;}
 }
 {
 {img {width:100%;}
