@@ -29,7 +29,7 @@ color:MidnightBlue;}
 img.book,
 img.pizza,
 img.pasta,
-img.cookie {width:75%;}
+img.cookie {width:25%;}
 
 img.tree,
 img.ocean,
@@ -40,7 +40,7 @@ img.butterfly {width:50%;}
 
 
 @media.queries
-(max-width: 298px)
+(-width: px)
 {img.tree,
 img.ocean,
 img.me,
