@@ -29,24 +29,15 @@ color:MidnightBlue;}
 img.book,
 img.pizza,
 img.pasta,
-img.cookie {width:75%;}
+img.cookie {width:100%;}
 
 img.tree,
 img.ocean,
 img.me,
 img.bird,
-img.butterfly {width:50%;}
+img.butterfly {width:100%;}
 
 
 
-@media.queries
-(max-width: 298px)
-{img.tree,
-img.ocean,
-img.me,
-img.bird,
-img.butterfly {width:100%; display:block;}}
-{img.book,
-img.pizza,
-img.pasta,
-img.cookie {width:100%;}}
+@media.queries (max-width: 400px)
+
