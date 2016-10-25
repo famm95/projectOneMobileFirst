@@ -39,5 +39,16 @@ img.butterfly {width:100%;}
 
 
 
-@media.queries (max-width: 400px)
+@media.queries (max-width: 400px) {
+img.book,
+img.pizza,
+img.pasta,
+img.cookie {width:75%;}
+
+
+
+
+
+
+}
 
