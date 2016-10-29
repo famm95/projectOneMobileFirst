@@ -45,7 +45,12 @@ img.ocean,
 img.me,
 img.bird,
 img.butterfly {
-    max-width:19%;} 
+    max-width:19%;}
+    
+    .container {
+        width:75%;
+        margin: 0 auto;
+    }
 
 
 
