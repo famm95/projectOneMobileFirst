@@ -40,8 +40,12 @@ img.butterfly {max-width:100%;}
 
 
 @media (min-width: 600px) {
-img {
-max-width:19%; 
+img.tree,
+img.ocean,
+img.me,
+img.bird,
+img.butterfly {
+    max-width:19%;} 
 
 
 
