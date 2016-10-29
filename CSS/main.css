@@ -48,9 +48,16 @@ img.butterfly {
     max-width:19%;}
     
     .container {
-        width:75%;
+        width:60%;
         margin: 0 auto;
     }
+img.book,
+img.pizza,
+img.pasta,
+img.cookie {
+        max-width:75%;
+    }
+
 
 
 
